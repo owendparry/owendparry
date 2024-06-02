@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owendparry
-- 👀 I’m interested in ... database
-- 🌱 I’m currently learning ... sqlite
+- 👀 I’m interested in ... database, LoRa, meshtastic
+- 🌱 I’m currently learning ... sqlite, python
 - 💞️ I’m looking to collaborate on ... sqlite use cases and learning 
 - 📫 How to reach me ... github DM
 
